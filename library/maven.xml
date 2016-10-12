@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><maven><artifacts>nabu:eai-module-services-interface</artifacts><internalDomains>nabu</internalDomains>
+	<provided>be.nabu.libs.artifacts:artifacts-api</provided>
+	<provided>be.nabu.libs.evaluator:evaluator-types</provided>
+	<provided>be.nabu.libs.services:services-api</provided>
+	<provided>be.nabu.libs.types:types-structure</provided>
+	<provided>be.nabu.libs.types:types-java</provided>
+	<provided>be.nabu.libs.types:types-binding-api</provided>
+	<provided>be.nabu.libs.types:types-binding-xml</provided>
+	<provided>org.slf4j:slf4j-api</provided>
+<updateSnapshots>false</updateSnapshots></maven>
+
