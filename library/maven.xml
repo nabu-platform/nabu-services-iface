@@ -6,6 +6,7 @@
 	<provided>be.nabu.libs.types:types-java</provided>
 	<provided>be.nabu.libs.types:types-binding-api</provided>
 	<provided>be.nabu.libs.types:types-binding-xml</provided>
+	<provided>be.nabu.libs.cluster:cluster-api</provided>
 	<provided>org.slf4j:slf4j-api</provided>
 <updateSnapshots>false</updateSnapshots></maven>
 
